@@ -1,4 +1,4 @@
-![logo](https://github.com/MsccoderCalix/MsccoderCalix/blob/main/coding.gif)
+![logo](https://github.com/MsccoderCalix/MsccoderCalix/blob/main/top.jpg)
 <h1 align="center">👋 Hola mi nombre es Calixto Villega</h1>
 Soy Ingeniero en sistemas apasionado al desarrollo de aplicaciones android y windows
 Programar es mi pasatiempo favorito</br>
@@ -30,8 +30,10 @@ Programar es mi pasatiempo favorito</br>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Calixto_Villega-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/calixto-villega-marcias-25608962)</br>
 - [![Instagram](https://img.shields.io/badge/Instagram-Calixto_Villega-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/msccoder)</br>
 
+
 ---
 
-##### ✍️ Si cuentas con un proyecto desafiante para Android no dudes en contactarme estaré feliz en participar y compartir experiencias 
+##### ✍️ Si cuentas con un proyecto desafiante para Android no dudes en contactarme estaré feliz en participar y compartir experiencias
+- 📫 Contactame: **ing_calixto@hotmail.es**
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MsccoderCalix&show_icons=true&locale=es" alt="MscCoderCalix" /></p>
