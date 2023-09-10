@@ -25,7 +25,6 @@ ________________________________________________________________________________
 ### Encuentrame En:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Calixto_Villega-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/calixto-villega-marcias-25608962)</br>
-- [![LinkedIn](https://img.shields.io/badge/Facebook-Calixto_Villega-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/calixxto)</br>
 - [![Instagram](https://img.shields.io/badge/Instagram-Calixto_Villega-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/msccoder)</br>
 
 _________________________________________________________________________________________________________________</br>
