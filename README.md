@@ -3,7 +3,7 @@
 Soy Ingeniero en sistemas apasionado al desarrollo de aplicaciones android y windows
 Programar es mi pasatiempo favorito</br>
 
-- Revisa mi canal de YouTube donde muestro como crear tus aplicaciones facil y rapido usando el clásico método de copiar y pegar desde repositorios existentes o desde la documentación oficial de las  APIs que implementaremos
+- Revisa mi canal de YouTube donde muestro como crear aplicaciones  facil y rapido usando el clásico método de copiar y pegar desde la documentación oficial de las  APIs
 
 - [![Youtube](https://img.shields.io/badge/youtube-CopiarPegar_Codigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@CopiarPegarCoder)</br>
 
@@ -38,6 +38,6 @@ Programar es mi pasatiempo favorito</br>
 ---
 
 ##### ✍️ Si cuentas con un proyecto desafiante para Android no dudes en contactarme estaré feliz en participar y compartir experiencias
-- 📫 Contactame: **ing_calixto@hotmail.es**
+- 📫 Contactame: **ing.calixtovillega@Gmail.com**
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MsccoderCalix&show_icons=true&locale=es" alt="MscCoderCalix" /></p>
