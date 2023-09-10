@@ -1,8 +1,11 @@
-# 👋 Hola mi nombre es Calixto Villega
-
+![logo](https://github.com/MsccoderCalix/MsccoderCalix/blob/main/Hey%20It's%20Raghu%20S.%20(1).png)
+<h1 align="center">👋 Hola mi nombre es Calixto Villega</h1>
 Soy Ingeniero en sistemas apasionado al desarrollo de aplicaciones android y windows
 Programar es mi pasatiempo favorito</br>
-_________________________________________________________________________________________________________________</br>
+
+<img align="right" alt="coding" width="400" src="https://github.com/MsccoderCalix/MsccoderCalix/coding.gif">
+
+---
 
 ### Tecnologias:
 
@@ -20,13 +23,15 @@ ________________________________________________________________________________
 ![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![Mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)</br>
-_________________________________________________________________________________________________________________</br>
+---
 
 ### Encuentrame En:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Calixto_Villega-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/calixto-villega-marcias-25608962)</br>
 - [![Instagram](https://img.shields.io/badge/Instagram-Calixto_Villega-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/msccoder)</br>
 
-_________________________________________________________________________________________________________________</br>
+---
 
 ✍️ Si cuentas con un proyecto desafiante para Android no dudes en contactarme estaré feliz en participar y compartir experiencias 
+---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MsccoderCalix&show_icons=true&locale=es" alt="MscCoderCalix" /></p>
