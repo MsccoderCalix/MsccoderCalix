@@ -3,6 +3,10 @@
 Soy Ingeniero en sistemas apasionado al desarrollo de aplicaciones android y windows
 Programar es mi pasatiempo favorito</br>
 
+- Revisa mi canal de YouTube donde muestro como crear tus aplicaciones facil y rapido usando el clásico método de copiar y pegar desde repositorios existentes o desde la documentación oficial de las  APIs que implementaremos
+
+- [![Youtube](https://img.shields.io/badge/youtube-CopiarPegar_Codigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@CopiarPegarCoder)</br>
+
 ---
 </br>
 
