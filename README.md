@@ -1,14 +1,14 @@
-![logo](https://github.com/MsccoderCalix/MsccoderCalix/blob/main/Hey%20It's%20Raghu%20S.%20(1).png)
+![logo](https://github.com/MsccoderCalix/MsccoderCalix/blob/main/coding.gif)
 <h1 align="center">👋 Hola mi nombre es Calixto Villega</h1>
 Soy Ingeniero en sistemas apasionado al desarrollo de aplicaciones android y windows
 Programar es mi pasatiempo favorito</br>
 
-<img align="right" alt="coding" width="400" src="https://github.com/MsccoderCalix/MsccoderCalix/coding.gif">
-
 ---
+</br>
 
 ### Tecnologias:
-
+---
+<img align="right" alt="coding" width="400" src="https://github.com/MsccoderCalix/MsccoderCalix/blob/main/coding.gif"></br>
 ![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white&labelColor=black)
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-green?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
@@ -32,6 +32,6 @@ Programar es mi pasatiempo favorito</br>
 
 ---
 
-✍️ Si cuentas con un proyecto desafiante para Android no dudes en contactarme estaré feliz en participar y compartir experiencias 
+##### ✍️ Si cuentas con un proyecto desafiante para Android no dudes en contactarme estaré feliz en participar y compartir experiencias 
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MsccoderCalix&show_icons=true&locale=es" alt="MscCoderCalix" /></p>
